@@ -1,10 +1,10 @@
 {
-  "name": "Ar Tracking Image",
+  "name": "Ar Tracking Image Demo",
   "version": "0.0.1",
   "license": "MIT",
   "author": {
-    "email": "matyunya@gmail.com",
-    "name": "Maxim Matyunin"
+    "email": "marcinhojazz@gmail.com",
+    "name": "Márcio Machado Pontes"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
